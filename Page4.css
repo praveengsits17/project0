@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+    
+@media only screen and (max-width:620px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width:100%;
+    height:100%;
+  }
+}
+
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: grey;
+}    
+                                                                                           
+.main {
+  float:left;
+  width:35%;                                                                                          
+}
+ .right{
+  float:left;
+  width:65%;                                                                                          
+}                                             
+                                                                                                                                                                                     
+body {
+        background-color :#fff7c4;                                                                                   
+     }
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 10px;
+}
+#main_01{
+    background-color:#cfc213;
+    padding:10px;
+    text-align:center;
+}

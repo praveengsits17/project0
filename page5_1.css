@@ -1,0 +1,27 @@
+#column_1, #column_3 {
+  background-color: lavender; }
+
+#column_2 {
+  background-color: lavenderblush; }
+
+.topnav {
+  background-color: black;
+  overflow: hidden; }
+  .topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px; }
+    .topnav a:hover {
+      background-color: #ddd;
+      color: grey; }
+
+.heading{
+    background-color :#d7fcb8;
+    text-align: center;
+}
+
+/*# sourceMappingURL=page5_1.css.map */
+
